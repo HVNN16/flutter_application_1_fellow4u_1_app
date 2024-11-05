@@ -1,0 +1,84 @@
+name: flutter_application_1_fellow4u_1
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  # Ensures that Material Icons are included
+  uses-material-design: true
+
+  # Adding assets section for images or other resources
+  
+  assets:
+    - assets/images/bull.jpg
+    - assets/images/Group 176.png
+    - assets/images/Group 3.png
+    - assets/images/Group 8.png
+    - assets/images/Group 10.png
+    - assets/images/Group 9.png
+    - assets/images/Logo.png
+    - assets/images/Vector 7.png
+    - assets/images/Group 108.png
+    - assets/images/Group 107.png
+    - assets/images/Vector 5.png
+    - assets/images/Vector 8.png
+    - assets/images/Group 98.png
+    - assets/images/Group 99.png
+    - assets/images/Group 101.png
+    - assets/images/Group 177.png
+    - assets/images/envelope.png
+    - assets/images/Vector 1.png
+    - assets/images/Vector.png
+    - assets/images/Vector 6.png
+    - assets/images/Mask Group.png
+    - assets/images/Mask Group 1.png
+    - assets/images/Mask Group 2.png
+    - assets/images/Emmy.png
+    - assets/images/Tuan.png
+    - assets/images/Mask Group 3.png
+    - assets/images/Mask Group 4.png
+    - assets/images/Mask Group 5.png
+    - assets/images/Mask Group 6.png
+    - assets/images/Mask Group 7.png
+    - assets/images/Mask Group 8.png
+    - assets/images/Mask Group 9.png
+    - assets/images/Group 9.1.png
+    - assets/images/Group 10.1.png
+    - assets/images/Group 11.png
+    - assets/images/Group 12.png
+    - assets/images/Group 13.png
+    - assets/images/image 3.png
+    - assets/images/dragon-bridge-03 2.png
+    - assets/images/Tuan Tran 2.png
+    - assets/images/Khai 2.png
+    - assets/images/Emmy 2.png
+    - assets/images/duc ba.png
+    - assets/images/hoguom.png
+    - assets/images/mausoleum.png
+    - assets/images/vanmieu.png
+    - assets/images/dinh.png
+    - assets/images/khaiho.png
+    - assets/images/search.png
+
+
+  # Uncomment the following to add more images if needed
+  #   - assets/images/another_image.png
